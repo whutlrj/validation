@@ -16,7 +16,6 @@
   
   <body>
     <form id="ff" action="http://www.hao123.com" method="post">
-    	<input type="text">
     	<input type="submit" value="提交"/>
     </form>
   </body>
